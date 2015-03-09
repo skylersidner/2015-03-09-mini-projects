@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+nav {
+  position: relative;
+}
+
+nav ul {
+  list-style-type: none;
+  display: inline-block;
+  text-align: left;
+  float: left;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  float: left;
+  padding: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
+  background-color: #5894C2;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-top: 2px solid black;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  text-align: left;
+  
+}
+
+body {
+  background-color: #CCCCCC;
+  text-align: center;
+  position: relative;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  
+}
+
+#contents {
+  text-align: center;
+}
+
+.tab_content {
+  display: inline-block;
+  float: left;
+  padding: 10px;
+  background-color: #5894C2;
+  border: 2px solid black;
+  width: 100%;
+  
+}
+
+.tab_content h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.tab_content ul {
+  padding-left: 10px;
+  list-style-type: none;
+}
+
+.tab_content li {
+  padding-top: 15px;
+}
+
+#about {
+
+}
+
+#concerts {
+  text-align: left;
+  
+}
+
+#concerts h2, h3, p {
+  margin: 0;
+  padding-top: 5px;
+}
+
+#discography {
+  text-align: left;
+  
+}
+
+#discography ul {
+  
+}
+
